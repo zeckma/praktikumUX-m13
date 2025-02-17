@@ -5,3 +5,6 @@
 *.aar filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
 ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
